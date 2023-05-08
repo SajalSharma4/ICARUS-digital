@@ -7,4 +7,3 @@ The SQL files are also attached.
 ![image](https://user-images.githubusercontent.com/79101773/186423236-593a5407-1d6b-4119-aa7b-a366171fd79b.png)
 ![image](https://user-images.githubusercontent.com/79101773/186423337-5e437b29-3185-40c7-a7f2-68b01dabada1.png)
 index page of the website.
-
